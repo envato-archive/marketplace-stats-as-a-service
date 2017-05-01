@@ -25,8 +25,8 @@ npm start
 
 ```json
 {
-  total_items: "5623356",
-  total_users: "8393788"
+  "total_items": "5623356",
+  "total_users": "8393788"
 }
 ```
 
