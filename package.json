@@ -1,0 +1,28 @@
+{
+  "name": "marketplace-stats-as-a-service",
+  "version": "1.0.0",
+  "description": "A little micro service to cache and expose Envato Marketplace stats(total items and total users)",
+  "main": "index.js",
+  "dependencies": {
+    "micro": "^7.3.2",
+    "ms": "^1.0.0",
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  },
+  "scripts": {
+    "start": "micro",
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/envato/marketplace-stats-as-a-service.git"
+  },
+  "author": "Envato Foundation",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/envato/marketplace-stats-as-a-service/issues"
+  },
+  "homepage": "https://github.com/envato/marketplace-stats-as-a-service#readme"
+}

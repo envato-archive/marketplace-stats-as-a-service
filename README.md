@@ -14,7 +14,7 @@ npm install
 And run the server:
 
 ```bash
-npm start
+API_GATEWAY_TOKEN=token npm start
 ```
 
 ## API
