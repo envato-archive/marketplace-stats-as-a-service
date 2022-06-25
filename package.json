@@ -6,7 +6,7 @@
   "dependencies": {
     "micro": "^7.3.2",
     "ms": "^1.0.0",
-    "node-fetch": "^1.6.3"
+    "node-fetch": "^2.6.7"
   },
   "devDependencies": {
     "standard": "^10.0.2"
